@@ -1,0 +1,10 @@
+# Git ignore configuration
+
+# Ignore Desafío individual markdown file
+Desafío individual*.md
+*desafio individual*.md
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
